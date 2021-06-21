@@ -2,4 +2,4 @@
 - 👀 I’m interested in blockchain, cross-platform mobile apps, react
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on decentralised web tech 
-- 📫 How to reach me @toxict0m on instagram
+- 📫 How to reach me: @toxict0m on instagram
